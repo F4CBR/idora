@@ -2,7 +2,7 @@
 
 # Fungsi untuk menampilkan bantuan
 show_help() {
-    echo "Penggunaan: $0 -l <aktif_url_list> [-h]"
+    echo "Penggunaan: ./idora.sh -l <aktif_url_list> [-h]"
     echo ""
     echo "Opsi:"
     echo "  -l <aktif_url_list>  Mengambil daftar URL aktif dari file yang ditentukan."
